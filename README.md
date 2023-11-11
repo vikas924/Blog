@@ -72,6 +72,8 @@ rspec
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 👥 Authors <a name="authors"></a>
+
 👤 **Vikas Chib**
 
 - GitHub: [@vikas924](https://github.com/vikas924)

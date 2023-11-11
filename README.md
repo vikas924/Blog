@@ -47,7 +47,7 @@ Ruby on Rails, Visual Studia Code, WSL
 
 In order to use this project.. Clone this repository to your desired folder by pasting this command in your command line interface:
 
-https://github.com/Kaiserabbas/blog-app.git
+git@github.com:vikas924/Blog.git
 
 ### Prerequisites <a name="prerequisites"></a>
 

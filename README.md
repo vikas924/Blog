@@ -109,6 +109,6 @@ I would like to thank Microverse.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() license.
+This project is [MIT](https://github.com/vikas924/Blog/blob/7b4534a579e1a3c608c1a005db80bd9255322fea/LICENSE) license.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

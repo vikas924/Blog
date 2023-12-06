@@ -35,7 +35,7 @@ Ruby on Rails, Visual Studia Code, WSL
 ### Key Features <a name="key-features"></a>
 
 - **Blog Post Management**
-- **User Profiles**
+- **User Profile**
 - **Authorization**
 - **API Endpoints**
 
